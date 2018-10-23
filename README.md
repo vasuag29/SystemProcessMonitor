@@ -30,7 +30,7 @@ Known bugs and future improvements
 - Since we have used a generic data processor class that implements a generic interface, we can add the data analytics part inside the tool   itself. This shall be considered as a future addition.
 
 **********************************
-How to use build and use the tool
+How to build and use the tool
 **********************************
 - I have added only the required .cs files and the UI project, and the project was developed in visual studio 2017 community edition.
 - To build the project, create an empty visual studio project and add the 4 different folders inside, namely: Business Layer, View Layer,     Persistence Layer, Common
