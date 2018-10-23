@@ -23,8 +23,8 @@ One can simply monitor processes for intervals and then they can easily plot a g
 **********************************
 Software requirements and technologies used
 **********************************
-Software used: Visual Studio 2017 Community Edition
-Technology used: C#, WinForms
+- Software used: Visual Studio 2017 Community Edition
+- Technology used: C#, WinForms
 
 **********************************
 Known bugs and future improvements
