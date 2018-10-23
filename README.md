@@ -35,7 +35,12 @@ How to use build and use the tool
 - I have added only the required .cs files and the UI project, and the project was developed in visual studio 2017 community edition.
 - To build the project, create an empty visual studio project and add the 4 different folders inside, namely: Business Layer, View Layer,     Persistence Layer, Common
 
-The project structure is like this: 
+- The project structure is like this: 
+
 ![alt text](https://github.com/vasuag29/SystemProcessMonitor/blob/master/Project%20Structure.PNG)
+
+
+- Now, after the folders are created, add the projects and files as shown in the image. Now add the appropriate references to the 'Common' folder.
+- Finaly, set the UI project as startup project and build the solution.
 
 
