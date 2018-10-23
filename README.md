@@ -21,6 +21,12 @@ The tool is useful for detecting memory leaks and memory usage anomalies.
 One can simply monitor processes for intervals and then they can easily plot a graph to assess the memory leaks.
 
 **********************************
+Software requirements and technologies used
+**********************************
+Software used: Visual Studio 2017 Community Edition
+Technology used: C#, WinForms
+
+**********************************
 Known bugs and future improvements
 **********************************
 - The 'EXIT' button in the menu strip is does not work as desired.
@@ -42,5 +48,5 @@ How to build and use the tool
 
 - Now, after the folders are created, add the projects and files as shown in the image. Now add the appropriate references to the 'Common' folder.
 - Finaly, set the UI project as startup project and build the solution.
-
+- Voila! You're good to go and now you can run the tool on your system.
 
